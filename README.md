@@ -6,3 +6,6 @@ Programa en Python para probar las Estructuras de datos
 
 ## promedios
 - ![alt text](image-1.png)
+
+## ejercicio3
+- ![alt text](image-2.png)
